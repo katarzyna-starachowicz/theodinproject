@@ -126,5 +126,3 @@ and click "OK".
 
 <hr>
 Created by [Erik Trautman](http://www.github.com/eriktrautman)
-
-And that should not be here.
